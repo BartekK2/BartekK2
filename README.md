@@ -1,8 +1,8 @@
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/bkrol000?theme=dark&acceptance=false&reputation=false&template=minimal)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/bkrol000?theme=dark&acceptance=false&reputation=false&template=minimal) <br/>
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) 
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 
 <!--
 **BartekK2/BartekK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
