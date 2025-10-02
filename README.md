@@ -1,8 +1,10 @@
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/bkrol000?theme=dark&acceptance=false&reputation=false&template=minimal) <br/>
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) 
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(190deg);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(190deg);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(190deg);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(190deg);"/>
+</p>
 
 <!--
 **BartekK2/BartekK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
