@@ -1,4 +1,4 @@
-<img src="https://leet-code-banner.vercel.app/api/svg/bkrol000" width="400" />
+<img src="https://leet-code-banner.vercel.app/api/svg/bkrol000" width="600" />
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
