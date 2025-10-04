@@ -1,4 +1,5 @@
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/bkrol000?theme=dark&acceptance=false&reputation=false&template=minimal) <br/>
+![LeetCode Stats](https://leet-code-banner.onrender.com/api/svg/bkrol000) <br/>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
