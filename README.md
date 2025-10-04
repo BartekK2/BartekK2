@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leet-code-banner.vercel.app/api/svg/bkrol000?scale=0.2) <br/>
+<img src="https://leet-code-banner.vercel.app/api/svg/bkrol000?scale=0.2" width="100" />
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
